@@ -1,0 +1,12 @@
+C:\Users\Butnaru\source\repos\MusicBase\bin\Debug\net7.0\MusicBase.deps.json
+C:\Users\Butnaru\source\repos\MusicBase\bin\Debug\net7.0\MusicBase.dll
+C:\Users\Butnaru\source\repos\MusicBase\bin\Debug\net7.0\MusicBase.pdb
+C:\Users\Butnaru\source\repos\MusicBase\obj\Debug\net7.0\MusicBase.csproj.AssemblyReference.cache
+C:\Users\Butnaru\source\repos\MusicBase\obj\Debug\net7.0\MusicBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Butnaru\source\repos\MusicBase\obj\Debug\net7.0\MusicBase.AssemblyInfoInputs.cache
+C:\Users\Butnaru\source\repos\MusicBase\obj\Debug\net7.0\MusicBase.AssemblyInfo.cs
+C:\Users\Butnaru\source\repos\MusicBase\obj\Debug\net7.0\MusicBase.csproj.CoreCompileInputs.cache
+C:\Users\Butnaru\source\repos\MusicBase\obj\Debug\net7.0\MusicBase.dll
+C:\Users\Butnaru\source\repos\MusicBase\obj\Debug\net7.0\refint\MusicBase.dll
+C:\Users\Butnaru\source\repos\MusicBase\obj\Debug\net7.0\MusicBase.pdb
+C:\Users\Butnaru\source\repos\MusicBase\obj\Debug\net7.0\ref\MusicBase.dll
